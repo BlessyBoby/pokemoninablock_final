@@ -1,0 +1,28 @@
+/* Solid border */
+hr.solid {
+border-top: 3px solid #bbb;
+}
+
+.bg-img {
+top: 0;
+left:0;
+z-index: -1;
+object-fit: cover;
+background-color: grey;
+background-blend-mode: multiply;
+}
+
+.logo{
+padding-bottom: 10px;
+}
+
+.form-group label{
+color: black;
+}
+.form-group1 label{
+  color: white;
+  }
+
+.form-group input{
+color: black;
+}  

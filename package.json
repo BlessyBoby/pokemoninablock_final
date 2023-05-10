@@ -1,0 +1,14 @@
+{
+  "name": "pokemondapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vaishnavi Anil Bhide",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.10",
+    "express": "^4.17.1"
+  }
+}
