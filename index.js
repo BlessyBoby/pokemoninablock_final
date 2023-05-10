@@ -5,6 +5,7 @@ app.use(express.static('pokemin-contract/contracts'));
 app.get('/', function (req, res) {
    res.render('index.html');
 });
-app.listen(3004, function () {
+var port = process.env.PORT || 3004;
+app.listen(port, function () {
   console.log('Example app listening on port 3004!');
  });
