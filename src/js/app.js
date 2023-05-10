@@ -3,7 +3,7 @@ App = {
   contracts: {},
   address: "0xa6763B5B418F9B527dA1Bec778e2f13a61fAe927",
   url: "http://127.0.0.1:7545",
-  network_id: 5777, 
+  network_id: 5, 
   handler: null,
   value: 1000000000000000000,
   index: 0,
